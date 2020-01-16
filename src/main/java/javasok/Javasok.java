@@ -3,7 +3,11 @@ package javasok;
 public class Javasok {
 	
 	public static void main(String args[]) {
-		new Splitter().egy();
+		Splitter splitter = new Splitter();
+		splitter.egy();
+		splitter.ketto();
+		splitter.harom();
+		splitter.negy();
 	}
 	
 }
