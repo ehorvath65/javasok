@@ -1,5 +1,6 @@
 package javasok;
 
+
 public class Regular {
 
 	String fejlec = "Termék kód  ; Árlista   ; Egységár ;   Alapár (Nettó)  ;   Árrés % ;  Kedvezmény %";
